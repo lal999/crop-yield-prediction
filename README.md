@@ -81,11 +81,3 @@ streamlit run streamlit.py
 - Add option to export prediction results as CSV
 
 ---
-
-## 👨‍💼 Author
-
-**Palikila Likhita Reddy**  
-Final Internship Project – AI & ML Internship by Edunet Foundation with IBM
-
-🌐 GitHub:(https://github.com/)  
-🔗 LinkedIn: (https://www.linkedin.com/in/palikila-likhita-reddy-51331a29a/)
